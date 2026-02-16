@@ -1,0 +1,14 @@
+# Forex Signal Bot - Python Dependencies
+# Install with: pip3 install -r requirements.txt
+
+# Async HTTP client
+aiohttp>=3.9.0
+
+# MetaTrader5 (Windows only - for local MT5 connection)
+# pip install MetaTrader5
+
+# For production, consider these professional APIs:
+# - alpha-vantage>=4.0.0
+# - oandapyV20>=0.6.3
+# - pandas>=2.0.0
+# - numpy>=1.24.0
